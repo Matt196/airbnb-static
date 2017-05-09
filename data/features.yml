@@ -1,0 +1,16 @@
+world:
+  image: globe.png
+  title : Discover the world
+  text: The earth is your new home.
+dollar:
+  image: dollar.png
+  title: Pay online
+  text: No cash issues anymore.
+beer:
+  image: beer.png
+  title: Meet people
+  text: Discover new culture and lifestyle.
+heart:
+  image: heart.png
+  title: Share and love
+  text: Join a community you will love

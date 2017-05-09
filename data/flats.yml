@@ -1,0 +1,61 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  rating: 4
+  wifi: true
+  properties:
+    Accommodates: 2
+    Bathrooms: 1
+    Bed type: Real Bed
+    Bedrooms: 1
+    Beds: 1
+    Property type: Apartment
+    Room type: Entire home/apt
+romain:
+  owner_name: Romain Paillard
+  picture: card-london.jpeg
+  owner_picture: romain.jpeg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  rating: 5
+  wifi: false
+  properties:
+    Accommodates: 2
+    Bathrooms: 1
+    Bed type: Real Bed
+    Bedrooms: 1
+anne:
+  owner_name: Anne Chose
+  picture: card-brussels.jpeg
+  owner_picture: anne.jpg
+  name: Anne's home
+  summary: Winter is coming
+  city: Brussels, BE
+  rating: 3
+  wifi: true
+  properties:
+    Accommodates: 2
+    Bathrooms: 1
+    Bed type: Real Bed
+    Bedrooms: 1
+    Beds: 1
+    Classroom: test
+    Dressroom : big
+    Kitchen: amazingly well equiped
+    Local: for helpers
+    Property type: Apartment
+    Room type: Entire home/apt
+matthieu:
+  owner_name: Matthieu Reboul
+  picture: card-romagnat.jpg
+  owner_picture: matthieu.jpeg
+  name: Matthieu's home
+  summary: Nice castle with great towers
+  city: Romagnat, FR
+  rating: 5
+  wifi: true
